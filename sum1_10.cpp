@@ -12,6 +12,7 @@ int main(void)
 	for( i=1; i<=j; i++){
 		res+=i;
 	}
+//ertyui
 	
 	printf("%d",res);
 
