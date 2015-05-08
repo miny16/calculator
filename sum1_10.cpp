@@ -4,8 +4,12 @@ int main(void)
 {
 	int i=0;
 	int res=0;
-	
-	for( i=1; i<=10; i++){
+	int j=0;
+
+	printf("input:");
+	scanf("%d",&j);
+
+	for( i=1; i<=j; i++){
 		res+=i;
 	}
 	
